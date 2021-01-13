@@ -1,5 +1,5 @@
 <?php
 
-include_once("news.html");
+include_once("ij-start-canon.html");
 
 ?>
